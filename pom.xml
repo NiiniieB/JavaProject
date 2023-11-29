@@ -10,7 +10,7 @@
         <javaVersion>11</javaVersion>
         <compilerVersion>3.8.1</compilerVersion>
         <shadeVersion>2.3</shadeVersion>
-        <logbackVersion>1.2.3</logbackVersion>
+        <logbackVersion>1.3.12</logbackVersion>
     </properties>
     <build>
         <plugins>
